@@ -15,9 +15,7 @@ function Skills() {
       { id: '7', name: 'React', progress: 80, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg' },
       { id: '8', name: 'Spring Boot', progress: 82, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spring.svg' },
       { id: '9', name: 'Node.js', progress: 78, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg' },
-      { id: '10', name: 'Express.js', progress: 76, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg' },
-      { id: '11', name: 'Bootstrap', progress: 85, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg' },
-      { id: '12', name: 'TailwindCSS', progress: 80, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg' }
+      { id: '11', name: 'Bootstrap', progress: 85, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg' }
     ],
     'Core CS Concepts': [
       { id: '13', name: 'Machine Learning', progress: 88, icon: 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg' },
