@@ -14,7 +14,7 @@ function About() {
               style={{ width: '192px', height: '192px', border: '4px solid #0d6efd' }}
             >
               <img
-                src="src/assets/dumindu-photo.jpg"
+                src="/assets/dumindu-photo.jpg"
                 alt="Dumindu Tharushika"
                 style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
               />
@@ -23,16 +23,13 @@ function About() {
           <div className="col-md-8">
             <div style={{ maxWidth: '600px' }}>
               <h3 className="h2 fw-semibold mb-3">
-                <span className="text-primary">Turning Ideas</span> into <span className="text-success">Impactful Code</span>
+                Here is a <span className="text-decoration-underline text-primary">little</span> background
               </h3>
-              <p className="text-muted lh-lg mb-3">
-                Hi, I'm Dumindu Tharushika — a Software Engineering undergraduate fueled by curiosity and a love for building things that matter. My journey blends <strong>Data Science</strong>, <strong>AI/ML</strong>, and full-stack development, with hands-on experience in <span className="text-primary">Python</span>, <span className="text-success">Java</span>, <span className="text-warning">Spring Boot</span>, and <span className="text-info">React</span>.
-              </p>
-              <p className="text-muted lh-lg mb-3">
-                Whether it's crafting scalable systems, experimenting with machine learning, or optimizing performance, I thrive on challenges and continuous learning. My mission? To transform complex problems into elegant, intelligent solutions.
-              </p>
-              <p className="fst-italic text-secondary">
-                "Code is my canvas, innovation my brush."
+              <p className="text-muted lh-lg">
+                I'm an ambitious Software Engineering undergraduate with a deep passion for Data Science and AI/ML.
+                With hands-on experience in Python, Java, and frameworks like Spring Boot and React, I specialize in
+                building scalable systems and intelligent solutions using machine learning and LLMs. I thrive on
+                innovation, performance optimization, and continuous learning.
               </p>
             </div>
           </div>

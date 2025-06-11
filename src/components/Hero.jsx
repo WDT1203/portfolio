@@ -59,7 +59,7 @@ function Hero({ scrollToSection = () => {} }) {
       <div className="hero-content-wrapper" style={{ zIndex: 10 }}>
         <div className="rounded-circle bg-light mx-auto mb-4 d-flex justify-content-center align-items-center profile-image" style={{ width: '180px', height: '180px' }}>
           <img
-            src="src\assets\dumindu_photo22.jpg" 
+            src="\assets\dumindu_photo22.jpg" 
             alt="Dumindu Tharushika"
             style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }}
           />
